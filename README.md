@@ -22,3 +22,9 @@ Example series...
     .
     https://www.example.com/199.jpg
     https://www.example.com/200.jpg
+
+
+<p align="center">
+    <a href="https://github.com/hasanbeder/SequentialFileDownloader/blob/main/README.md"><b>English Readme</b></a> •
+    <a href="https://github.com/hasanbeder/SequentialFileDownloader/blob/main/README_tr.md"><b>Turkish Readme</b></a>
+</p>
